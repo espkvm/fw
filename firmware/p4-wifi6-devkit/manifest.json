@@ -1,0 +1,9 @@
+{
+  "version": "v.0.62.0",
+  "board": "p4-wifi6-devkit",
+  "file": "espkvm-v.0.62.0-p4-wifi6-devkit.bin",
+  "size": 2191376,
+  "sha256": "ce072dc476075dca68d1dfed0e26b7a18361c047c1621324dc7bea4c5bf8678b",
+  "released": "2026-10-10T09:12:33Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.62.0"
+}

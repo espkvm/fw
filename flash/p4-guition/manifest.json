@@ -1,0 +1,11 @@
+{
+  "name": "ESP-KVM (p4-guition)",
+  "version": "v.0.62.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-P4",
+      "parts": [{ "path": "espkvm-v.0.62.0-p4-guition-merged.bin", "offset": 0 }]
+    }
+  ]
+}

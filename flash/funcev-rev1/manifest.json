@@ -1,0 +1,11 @@
+{
+  "name": "ESP-KVM (funcev-rev1)",
+  "version": "v.0.62.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-P4",
+      "parts": [{ "path": "espkvm-v.0.62.0-funcev-rev1-merged.bin", "offset": 0 }]
+    }
+  ]
+}

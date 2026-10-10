@@ -1,0 +1,9 @@
+{
+  "version": "v.0.62.0",
+  "board": "p4-eth",
+  "file": "espkvm-v.0.62.0-p4-eth.bin",
+  "size": 1986704,
+  "sha256": "b737c601195475c268b74305dbfd970a03ac5c846226465b6a6dbb3c94b585db",
+  "released": "2026-10-10T09:12:33Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.62.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ESP-KVM (firebeetle2-p4)",
+  "version": "v.0.62.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-P4",
+      "parts": [{ "path": "espkvm-v.0.62.0-firebeetle2-p4-merged.bin", "offset": 0 }]
+    }
+  ]
+}

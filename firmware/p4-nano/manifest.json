@@ -1,0 +1,9 @@
+{
+  "version": "v.0.62.0",
+  "board": "p4-nano",
+  "file": "espkvm-v.0.62.0-p4-nano.bin",
+  "size": 2192096,
+  "sha256": "723242b92fead33513c724b95a673edfc43af7de0309f899f83784a30227f5ec",
+  "released": "2026-10-10T09:12:33Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.62.0"
+}

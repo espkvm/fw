@@ -1,0 +1,106 @@
+[
+  {
+    "id": "p4-eth",
+    "label": "Waveshare ESP32-P4-ETH",
+    "image": "img/board-p4.webp",
+    "manifest": "p4-eth/manifest.json",
+    "manifestRev3": "p4-eth-rev3/manifest.json"
+  },
+  {
+    "id": "funcev",
+    "label": "Espressif ESP32-P4 Function EV",
+    "image": "img/board-funcev.webp",
+    "manifest": "funcev-rev1/manifest.json",
+    "manifestRev3": "funcev/manifest.json"
+  },
+  {
+    "id": "p4-poe",
+    "label": "Waveshare ESP32-P4-WIFI6-POE-ETH",
+    "image": "img/board-poe.jpg",
+    "manifest": "p4-poe/manifest.json",
+    "manifestRev3": "p4-poe-rev3/manifest.json"
+  },
+  {
+    "id": "p4-wifi6-devkit",
+    "label": "Waveshare ESP32-P4-WIFI6-DEV-KIT",
+    "image": "img/board-wifi6-devkit.webp",
+    "manifest": "p4-wifi6-devkit/manifest.json",
+    "manifestRev3": "p4-wifi6-devkit-rev3/manifest.json"
+  },
+  {
+    "id": "p4-module-devkit",
+    "label": "Waveshare ESP32-P4-Module-DEV-KIT",
+    "image": "img/board-module-devkit.webp",
+    "untested": true,
+    "manifest": "p4-module-devkit/manifest.json",
+    "manifestRev3": "p4-module-devkit-rev3/manifest.json"
+  },
+  {
+    "id": "p4-wifi6",
+    "label": "Waveshare ESP32-P4-WIFI6",
+    "image": "img/board-wifi6.webp",
+    "manifest": "p4-wifi6/manifest.json",
+    "manifestRev3": "p4-wifi6-rev3/manifest.json"
+  },
+  {
+    "id": "p4-nano",
+    "label": "Waveshare ESP32-P4-NANO",
+    "image": "img/board-nano.jpg",
+    "manifest": "p4-nano/manifest.json",
+    "manifestRev3": "p4-nano-rev3/manifest.json"
+  },
+  {
+    "id": "p4-wifi6-db",
+    "label": "Waveshare ESP32-P4-WIFI6-DB",
+    "image": "img/board-wifi6-db.webp",
+    "untested": true,
+    "manifest": "p4-wifi6-db/manifest.json"
+  },
+  {
+    "id": "funcev-c5",
+    "label": "Espressif ESP32-P4X-C5 Function EV",
+    "image": "img/board-funcev-c5.webp",
+    "untested": true,
+    "manifest": "funcev-c5/manifest.json"
+  },
+  {
+    "id": "p4-nano-wifi6-db",
+    "label": "Waveshare ESP32-P4-NANO-WIFI6-DB",
+    "image": "img/board-nano-wifi6-db.webp",
+    "untested": true,
+    "manifest": "p4-nano-wifi6-db/manifest.json"
+  },
+  {
+    "id": "viewe-p4-pi",
+    "label": "VIEWE ESP32-P4-Pi",
+    "image": "img/board-viewe-p4-pi.webp",
+    "untested": true,
+    "manifest": "viewe-p4-pi/manifest.json"
+  },
+  {
+    "id": "p4-guition",
+    "label": "Guition ESP32-P4-M3-Dev",
+    "image": "img/board-guition.webp",
+    "manifest": "p4-guition/manifest.json",
+    "manifestRev3": "p4-guition-rev3/manifest.json"
+  },
+  {
+    "id": "firebeetle2-p4",
+    "label": "DFRobot FireBeetle 2 ESP32-P4",
+    "image": "img/board-firebeetle2.webp",
+    "manifest": "firebeetle2-p4/manifest.json"
+  },
+  {
+    "id": "m5-poe-p4",
+    "label": "M5Stack Unit PoE-P4",
+    "image": "img/board-m5-poe-p4.webp",
+    "manifest": "m5-poe-p4/manifest.json"
+  },
+  {
+    "id": "m5-poe-p4x",
+    "label": "M5Stack Unit PoE-P4X",
+    "image": "img/board-m5-poe-p4.webp",
+    "untested": true,
+    "manifest": "m5-poe-p4x/manifest.json"
+  }
+]
