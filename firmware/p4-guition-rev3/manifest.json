@@ -1,0 +1,9 @@
+{
+  "version": "v.0.65.0",
+  "board": "p4-guition-rev3",
+  "file": "espkvm-v.0.65.0-p4-guition-rev3.bin",
+  "size": 2222496,
+  "sha256": "017671bd84246bf32d3e859c1f540bc95668dc9f91573196cfa0328b7fdb317a",
+  "released": "2026-10-15T00:22:18Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.65.0"
+}
