@@ -1,0 +1,9 @@
+{
+  "version": "v.0.69.1",
+  "board": "p4-wifi6-db",
+  "file": "espkvm-v.0.69.1-p4-wifi6-db.bin",
+  "size": 2392784,
+  "sha256": "36c23f6cf7f122280fe45536a1174196f190ebbd651da7cb0e28ab8f3a901189",
+  "released": "2026-10-24T06:39:21Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.69.1"
+}

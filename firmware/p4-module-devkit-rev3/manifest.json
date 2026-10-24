@@ -1,0 +1,9 @@
+{
+  "version": "v.0.69.1",
+  "board": "p4-module-devkit-rev3",
+  "file": "espkvm-v.0.69.1-p4-module-devkit-rev3.bin",
+  "size": 2440992,
+  "sha256": "60574c3048a86663535e226d2cfe58b5f52785068c963a08debe39748060c0e5",
+  "released": "2026-10-24T06:39:21Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.69.1"
+}
