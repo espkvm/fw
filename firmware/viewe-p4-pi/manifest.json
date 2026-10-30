@@ -1,0 +1,9 @@
+{
+  "version": "v.0.75.0",
+  "board": "viewe-p4-pi",
+  "file": "espkvm-v.0.75.0-viewe-p4-pi.bin",
+  "size": 2517712,
+  "sha256": "6d796381947cd534b98f810eb5c9db5f997c7b3d51e93068a5becdd1de9762a7",
+  "released": "2026-10-30T23:29:02Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.75.0"
+}

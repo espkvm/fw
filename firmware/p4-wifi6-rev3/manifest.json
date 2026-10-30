@@ -1,0 +1,9 @@
+{
+  "version": "v.0.75.0",
+  "board": "p4-wifi6-rev3",
+  "file": "espkvm-v.0.75.0-p4-wifi6-rev3.bin",
+  "size": 2472880,
+  "sha256": "1caf51adc20e9b3f27d9beebe8604413309385304905e3cfe9294ebafe4b68e4",
+  "released": "2026-10-30T23:29:02Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.75.0"
+}
