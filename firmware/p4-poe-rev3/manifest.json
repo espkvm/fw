@@ -1,0 +1,9 @@
+{
+  "version": "v.0.84.0",
+  "board": "p4-poe-rev3",
+  "file": "espkvm-v.0.84.0-p4-poe-rev3.bin",
+  "size": 2662784,
+  "sha256": "cf19bdec9054d107532fb7fa6d06036eaa21a0be2dcbbaff95d9bb1acc742988",
+  "released": "2026-11-14T16:44:28Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.84.0"
+}

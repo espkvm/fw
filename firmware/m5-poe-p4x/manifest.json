@@ -1,0 +1,9 @@
+{
+  "version": "v.0.84.0",
+  "board": "m5-poe-p4x",
+  "file": "espkvm-v.0.84.0-m5-poe-p4x.bin",
+  "size": 2483488,
+  "sha256": "e35228a95b1a3f33c0df630928788d08c2cef76dffec8efd029031ae5fe65374",
+  "released": "2026-11-14T16:44:28Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.84.0"
+}
