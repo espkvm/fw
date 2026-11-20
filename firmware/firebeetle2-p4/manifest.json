@@ -1,0 +1,9 @@
+{
+  "version": "v.0.90.0",
+  "board": "firebeetle2-p4",
+  "file": "espkvm-v.0.90.0-firebeetle2-p4.bin",
+  "size": 2753248,
+  "sha256": "b438f8c45873a0719cf02184b5f6697a3c91412681ff92070dae759392a9320b",
+  "released": "2026-11-20T22:06:24Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.90.0"
+}

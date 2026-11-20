@@ -1,0 +1,9 @@
+{
+  "version": "v.0.90.0",
+  "board": "jetkvm-mini",
+  "file": "espkvm-v.0.90.0-jetkvm-mini.bin",
+  "size": 2630272,
+  "sha256": "973a34c3da6e441b4931f05a345c2ab421dd27ec9593e45cd7ef2cb5fca97bc1",
+  "released": "2026-11-20T22:06:24Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.90.0"
+}
