@@ -1,0 +1,9 @@
+{
+  "version": "v.0.92.0",
+  "board": "p4-nano-wifi6-db",
+  "file": "espkvm-v.0.92.0-p4-nano-wifi6-db.bin",
+  "size": 2866928,
+  "sha256": "9a822903181fa962d02fa2dca819ecdb97aa6afe3c2fafc5a33e49b29c1b7b90",
+  "released": "2026-11-25T23:05:55Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.92.0"
+}

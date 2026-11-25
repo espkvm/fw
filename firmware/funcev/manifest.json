@@ -1,0 +1,9 @@
+{
+  "version": "v.0.92.0",
+  "board": "funcev",
+  "file": "espkvm-v.0.92.0-funcev.bin",
+  "size": 2862064,
+  "sha256": "0e17c4395b5b2b91348e82ef76573520606063c980936571f5e610bcb311077a",
+  "released": "2026-11-25T23:05:55Z",
+  "notes": "https://github.com/espkvm/espkvm/releases/tag/v.0.92.0"
+}
